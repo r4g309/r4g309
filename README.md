@@ -42,6 +42,6 @@
 
 
 ## Badges
-<a href="https://badgr.com/public/assertions/JpuCSHPUTGesBLzOxYIhug?identity__email=bscortes94@ucatolica.edu.co" target="_blank"> 
+
 <img width="100" src="https://github.com/r4g309/r4g309/blob/main/static/GSL.png" alt="GSL Classroom | Tecnológico de Monterrey & Universidad Católica de Colombia" />
-</a>
+<a href="https://badgr.com/public/assertions/JpuCSHPUTGesBLzOxYIhug" target="_blank" rel="noreferrer" >GSL Classroom</a>
