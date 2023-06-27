@@ -38,3 +38,10 @@
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+
+
+
+## Badges
+<a href="https://badgr.com/public/assertions/JpuCSHPUTGesBLzOxYIhug?identity__email=bscortes94@ucatolica.edu.co" target="_blank"> 
+<img width="100" src="https://github.com/r4g309/r4g309/blob/main/static/GSL.png" alt="GSL Classroom | Tecnológico de Monterrey & Universidad Católica de Colombia" />
+</a>
