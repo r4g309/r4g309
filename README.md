@@ -24,6 +24,28 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 
+##### My Published Apps on the Play Store
+
+
+   
+
+<img src="https://github.com/r4g309/r4g309/assets/62715495/9e383c3d-e8ad-4229-908e-6ac0a64649eb" width="150" align="right" alt="Diabett Logo" />
+
+<h3>
+   <a href="https://play.google.com/store/apps/details?id=com.sigmotoa.diabett" target="_blank">
+      Diabett
+   </a>
+</h3>
+
+<p>
+   Esta aplicación, desarrollada en colaboración con la Universidad Tecnológica de Monterrey y la Universidad Católica de Colombia, se llama Diabett. Diabett es una aplicación móvil que se enfoca en brindar apoyo y herramientas para el manejo de la diabetes.
+
+La app proporciona una serie de características y funcionalidades para ayudar a las personas con diabetes a controlar su enfermedad de manera más efectiva. Algunas de las características principales de Diabett incluyen:
+
+Registro de datos: Los usuarios pueden registrar y realizar un seguimiento de sus niveles de glucosa en sangre y comidas.
+Educación y recursos: Diabett también brinda acceso a recursos educativos sobre la diabetes, incluyendo consejos de estilo de vida saludable y recomendaciones de ejercicio. Esto ayuda a los usuarios a adquirir conocimientos y habilidades para manejar su enfermedad de manera efectiva.
+</p>
+
 ## Learning
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
